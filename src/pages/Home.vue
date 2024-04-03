@@ -28,7 +28,7 @@
             <p class="text-4xl italic text-center text-slate-600">Tu Socio en la Nube</p>
         </div>
         <picture class="sm:w-full lg:w-6/12">
-            <img src="img/banner.jpg" alt="Umbrella Cloud Banner">
+            <img src="/img/banner.jpg" alt="Umbrella Cloud Banner">
         </picture>
     </section>
     <div class="mt-32 text-center mx-3">
