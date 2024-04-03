@@ -66,7 +66,7 @@
         <nav class="border-gray-200 bg-orange-500 transition">
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
                 <a href="#" class="flex items-center">
-                    <img src="img/logo.svg" alt="Logo" class="w-60"/>
+                    <img src="/img/logo.svg" alt="Logo" class="w-60"/>
                     <span class="sr-only">Umbrella Cloud</span>
                 </a>
                 <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg lg:hidden hover:bg-orange-300" aria-controls="navbar-default" aria-expanded="false">
